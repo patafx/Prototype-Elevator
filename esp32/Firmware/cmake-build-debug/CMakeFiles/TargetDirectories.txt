@@ -1,0 +1,3 @@
+/cygdrive/c/Users/fx_boisserin/Documents/GitHub/Prototype-Elevator/esp32/Firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/fx_boisserin/Documents/GitHub/Prototype-Elevator/esp32/Firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/fx_boisserin/Documents/GitHub/Prototype-Elevator/esp32/Firmware/cmake-build-debug/CMakeFiles/Firmware.dir
